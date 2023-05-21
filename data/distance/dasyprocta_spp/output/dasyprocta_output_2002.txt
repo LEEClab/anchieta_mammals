@@ -1,0 +1,35 @@
+Dasyprocta (2002)
+
+Area: 6.3 km²
+Effort        :    104.5400    
+ # samples     :    65
+ Width         :    19.20000    
+ # observations:   116
+
+ Model  4
+    Half-normal key, k(y) = Exp(-y**2/(2*A(1)**2))
+    Cosine adjustments of order(s) :  2, 3, 4
+
+          	  Point        Standard    Percent Coef.        95 Percent
+  Parameter   Estimate       Error      of Variation     Confidence Interval
+  ---------  -----------  -----------  --------------  ----------------------
+    ESW       4.6201      0.40923           8.86       3.8778       5.5046    
+  ---------  -----------  -----------  --------------  ----------------------
+
+
+              Point        Standard    Percent Coef.        95% Percent
+  Parameter   Estimate       Error      of Variation     Confidence Interval
+  ---------  -----------  -----------  --------------  ----------------------
+    D         120.09       15.410          12.83       93.223       154.69    
+    N         757.00       97.139          12.83       587.00       975.00    
+  ---------  -----------  -----------  --------------  ----------------------
+
+ Measurement Units                
+ ---------------------------------
+ Density: Numbers/Sq. kilometers 
+     ESW: meters         
+
+ Component Percentages of Var(D)
+ -------------------------------
+ Detection probability   :  47.6
+ Encounter rate          :  52.4

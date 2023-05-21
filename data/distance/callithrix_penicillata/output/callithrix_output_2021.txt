@@ -1,0 +1,35 @@
+Callithrix (2021)
+
+Area: 6.3 km²
+Effort        :    139560.0    
+ # samples     :   131
+ Width         :    20.00000    
+ # observations:   148
+
+ Model  4 (Poisson distribution)
+    Half-normal key, k(y) = Exp(-y**2/(2*A(1)**2))
+    Cosine adjustments of order(s) :  2, 3, 4
+
+
+  Parameter   Estimate       Error      of Variation     Confidence Interval
+  ---------  -----------  -----------  --------------  ----------------------
+    ESW       4.7390      0.38774           8.18       4.0324       5.5693    
+  ---------  -----------  -----------  --------------  ----------------------
+
+
+              Point        Standard    Percent Coef.        95% Percent
+  Parameter   Estimate       Error      of Variation     Confidence Interval
+  ---------  -----------  -----------  --------------  ----------------------
+    D         111.89       12.977          11.60       89.035       140.61    
+    N         705.00       81.765          11.60       561.00       886.00    
+  ---------  -----------  -----------  --------------  ----------------------
+
+ Measurement Units                
+ ---------------------------------
+ Density: Numbers/Sq. kilometers 
+     ESW: meters         
+
+ Component Percentages of Var(D)
+ -------------------------------
+ Detection probability   :  49.8
+ Encounter rate          :  50.2

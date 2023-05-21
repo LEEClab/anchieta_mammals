@@ -1,0 +1,142 @@
+local	transectID	comprimento do transecto (km)	dist_perpendicular (m)
+Anch	1	1,415	
+Anch	2	1,415	
+Anch	3	0,35	
+Anch	4	0,35	
+Anch	5	1,415	
+Anch	6	1,415	
+Anch	7	2,7	3,2
+Anch			3,2
+Anch			3,2
+Anch	8	0,35	
+Anch	9	0,35	
+Anch	10	2,7	4,2
+Anch			4,2
+Anch			3,9
+Anch			4,4
+Anch			4,4
+Anch			4,4
+Anch			4,4
+Anch			4,4
+Anch			4,4
+Anch	11	2,7	3,8
+Anch			3,8
+Anch			3
+Anch			3
+Anch			5,2
+Anch			5,2
+Anch	12	0,35	
+Anch	13	0,35	
+Anch	14	1,1	
+Anch	15	1,1	
+Anch	16	2,7	5
+Anch			5
+Anch			9,6
+Anch			9,6
+Anch			9,6
+Anch			9,6
+Anch	17	1,415	
+Anch	18	1,415	
+Anch	19	0,35	
+Anch	20	0,35	
+Anch	21	0,35	
+Anch	22	0,35	
+Anch	23	1,1	
+Anch	24	1,1	
+Anch	25	1,1	
+Anch	26	1,1	
+Anch	27	1,415	
+Anch	28	1,415	
+Anch	29	1,415	
+Anch	30	1,415	
+Anch	31	0,35	
+Anch	32	0,35	
+Anch	33	2,7	2
+Anch			2
+Anch			2
+Anch			2
+Anch			2
+Anch			2
+Anch			2,4
+Anch			2,4
+Anch			2,4
+Anch			2,4
+Anch			2,4
+Anch			2,4
+Anch			2,4
+Anch	34	1,1	
+Anch	35	1,1	
+Anch	36	0,35	
+Anch	37	0,35	
+Anch	38	0,35	
+Anch	39	0,35	
+Anch	40	1,415	
+Anch	41	1,415	
+Anch	42	2,7	0,8
+Anch			0,8
+Anch			0,8
+Anch			10
+Anch			10
+Anch			10
+Anch	43	1,1	22
+Anch			22
+Anch			22
+Anch			22
+Anch			22
+Anch			22
+Anch			22
+Anch	44	1,1	
+Anch	45	0,35	
+Anch	46	0,35	
+Anch	47	1,415	2,2
+Anch			2,2
+Anch			2,2
+Anch			2,2
+Anch			2,2
+Anch			1,3
+Anch			3,5
+Anch			4
+Anch			4
+Anch			4
+Anch	48	1,415	
+Anch	49	0,35	
+Anch	50	0,35	
+Anch	51	1,1	
+Anch	52	0,35	4,5
+Anch			4,5
+Anch			4,5
+Anch			4,5
+Anch			4,5
+Anch			4,5
+Anch	53	0,35	
+Anch	54	1,415	1
+Anch			1
+Anch			1
+Anch	55	1,415	
+Anch	56	1,1	5
+Anch			5
+Anch			5
+Anch			5
+Anch	57	1,1	
+Anch	58	1,55	
+Anch	59	1,55	
+Anch	60	1,415	23
+Anch			23
+Anch	61	1,415	
+Anch	62	0,35	
+Anch	63	0,35	
+Anch	64	0,35	
+Anch	65	0,35	
+Anch	66	1,1	
+Anch	67	1,1	
+Anch	68	0,35	
+Anch	69	0,35	
+Anch	70	1,1	
+Anch	71	1,1	
+Anch	72	1,415	
+Anch	73	1,415	
+Anch	74	0,35	
+Anch	75	0,35	
+Anch	76	1,415	
+Anch	77	1,415	
+Anch	78	2,7	

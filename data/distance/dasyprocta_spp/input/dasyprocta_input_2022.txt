@@ -1,0 +1,280 @@
+local	transectID	comprimento do transecto	dist_perpendicular
+anch	1	1415	0
+anch			7
+anch			0
+anch	2	1415	0
+anch			4
+anch	3	1100	2,5
+anch			4,5
+anch			0
+anch			2,5
+anch			8
+anch	4	1100	1
+anch			5
+anch	5	1550	5
+anch			5
+anch			7
+anch			2
+anch			23
+anch	6	1550	1
+anch			1,5
+anch			3
+anch	7	350	0
+anch	8	350	
+anch	9	750	10
+anch			7
+anch			5
+anch			3
+anch			5
+anch			10
+anch	10	750	10
+anch			2
+anch			4
+anch			15
+anch			5
+anch			1
+anch	11	1415	12
+anch			4
+anch			8
+anch	12	1415	
+anch	13	1100	12
+anch			12
+anch			5
+anch			24
+anch	14	1100	5
+anch	15	1550	2,5
+anch			0
+anch			0
+anch	16	1550	4
+anch			0
+anch	17	750	
+anch	18	750	
+anch	19	1415	3
+anch			0
+anch	20	1415	
+anch	21	350	
+anch	22	350	
+anch	23	1100	
+anch	24	1100	1
+anch	25	1415	8
+anch			18
+anch			5
+anch			3,5
+anch	26	1415	6
+anch			0
+anch			6
+anch			5
+anch			5
+anch			5
+anch			4
+anch			4
+anch	27	1100	0
+anch			4
+anch			4
+anch			0
+anch	28	1100	
+anch	29	1550	0
+anch	30	1550	0
+anch			0
+anch			0
+anch	31	750	1,5
+anch	32	750	2
+anch	33	350	
+anch	34	350	
+anch	35	2700	5,5
+anch	36	750	3
+anch			4,5
+anch			0,5
+anch	37	750	1
+anch			5,5
+anch	38	1100	
+anch	39	1100	
+anch	40	350	
+anch	41	350	
+anch	42	1415	10
+anch			10
+anch			10
+anch			10
+anch			5,5
+anch			5,5
+anch			5,5
+anch	43	1415	7
+anch			0
+anch			0
+anch			0
+anch			0
+anch	44	1100	8
+anch			20
+anch			15
+anch			1
+anch			1
+anch			1
+anch			30
+anch	45	1100	4
+anch			1
+anch	46	750	20
+anch			10
+anch			0
+anch			8
+anch			10
+anch			1
+anch			33
+anch			8
+anch	47	750	5
+anch			0
+anch			6
+anch			5
+anch	48	350	
+anch	49	350	
+anch	50	1415	0
+anch			3
+anch			3
+anch			3
+anch			3
+anch			3
+anch			6
+anch	51	1415	6
+anch			9
+anch	52	1100	8
+anch			8
+anch	53	1100	2,5
+anch	54	750	
+anch	55	750	
+anch	56	1415	0
+anch	57	1415	0,5
+anch	58	350	
+anch	59	350	
+anch	60	750	12
+anch			6
+anch	61	750	4,5
+anch			2
+anch	62	350	
+anch	63	350	2
+anch	64	1550	7
+anch			7
+anch			7
+anch			7
+anch			7
+anch			0
+anch			0
+anch			4
+anch			4
+anch			4
+anch			0
+anch			0
+anch			1
+anch	65	1550	8
+anch			9
+anch			9
+anch			9
+anch			9
+anch			9
+anch	66	1415	0
+anch			1
+anch			7
+anch			0
+anch			14
+anch	67	1415	0
+anch			1
+anch			8
+anch			2
+anch	68	1100	0
+anch			0
+anch			0
+anch			0,5
+anch			0,5
+anch			0,5
+anch	69	1100	18
+anch			14
+anch	70	2700	
+anch	71	350	
+anch	72	350	
+anch	73	750	1
+anch			1
+anch			2,3
+anch			0,5
+anch			6
+anch			6
+anch			6
+anch	74	750	5
+anch			3
+anch	75	1100	
+anch	76	1100	
+anch	77	350	24
+anch	78	350	
+anch	79	750	4
+anch	80	750	9
+anch			9
+anch			5
+anch	81	1100	0
+anch			0
+anch			0
+anch			3
+anch			3
+anch			14
+anch	82	1100	
+anch	83	1415	0
+anch			4,5
+anch			1
+anch	84	1415	5
+anch			7
+anch			7
+anch			5
+anch	85	1550	7
+anch	86	1550	0
+anch	87	1100	
+anch	88	1100	2
+anch			2
+anch			2
+anch	89	2700	5
+anch			5
+anch			1
+anch			0,5
+anch	90	1550	8
+anch			0
+anch	91	1550	0
+anch			0
+anch	92	750	4
+anch			5
+anch			5
+anch	93	750	7,5
+anch			2
+anch			2
+anch			0
+anch			0
+anch			0
+anch	94	350	
+anch	95	350	
+anch	96	1415	0
+anch			0
+anch			1
+anch			1
+anch	97	1415	0
+anch	98	1100	10
+anch			10
+anch			10
+anch			10
+anch			10
+anch	99	1100	
+anch	100	1550	0
+anch			0
+anch			0
+anch			0
+anch			0
+anch			0
+anch			0
+anch			0
+anch			0
+anch			2,5
+anch	101	1550	0
+anch	102	350	0
+anch			1
+anch			1
+anch	103	350	
+anch	104	750	8
+anch			3
+anch			6,3
+anch			4
+anch	105	750	3
+anch			7
+anch			1,5
