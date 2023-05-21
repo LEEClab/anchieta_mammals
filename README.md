@@ -8,8 +8,7 @@ We present the status and population dynamics of the introduced species after 19
 All analyses were performed in software Distance 7.5.
 
 # data
-Distance 7.5 software input and output data
-Raw survey tables of each year.
+Distance 7.5 software input and output data and raw survey tables of each year.
 
 # maps
 Location maps and trails.
