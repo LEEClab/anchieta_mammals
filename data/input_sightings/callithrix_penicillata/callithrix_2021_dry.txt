@@ -1,0 +1,164 @@
+Region	Ordem	Extensão	Indivíduos	DP
+Anch	1	1,415	4	0
+Anch	2	1,415	8	0
+Anch			5	0
+Anch			1	4
+Anch	3	0,750	1	1
+Anch	4	0,750	3	5
+Anch	5	1,550	2	9
+Anch	6	1,550		
+Anch	7	0,350		
+Anch	8	0,350		
+Anch	9	1,100	1	3
+Anch	10	1,100		
+Anch	11	1,415	1	10
+Anch	12	1,415	1	7
+Anch	13	0,750	1	1
+Anch	14	0,750		
+Anch	15	1,550	1	6
+Anch	16	1,550		
+Anch	17	0,350		
+Anch	18	0,350		
+Anch	19	1,100	1	2,5
+Anch			1	10
+Anch			1	1
+Anch	20	1,100	2	3,5
+Anch			1	10
+Anch			1	0,5
+Anch			1	4,5
+Anch			1	0,5
+Anch	21	1,415				
+Anch	22	1,550	1	8
+Anch			3	3
+Anch	23	1,550		
+Anch	24	0,750	1	1,5
+Anch	25	0,750		
+Anch	26	0,350	3	5
+Anch	27	0,350	1	4
+Anch	28	1,100	1	3
+Anch	29	1,100		
+Anch	30	2,700	1	0
+Anch			1	2
+Anch			1	15
+Anch			1	20
+Anch	31	0,750		
+Anch	32	0,750	1	1
+Anch	33	1,550	1	1
+Anch			1	15
+Anch			1	12
+Anch	34	1,550	2	12
+Anch	35	0,350	1	1
+Anch	36	0,350		
+Anch	37	1,100	1	6
+Anch			2	0
+Anch	38	1,100		
+Anch	39	1,415		
+Anch	40	1,415		
+Anch	41	1,550	2	3
+Anch			1	2
+Anch	42	1,550	4	2,5
+Anch			1	6
+Anch	43	1,100		
+Anch	44	1,100		
+Anch	45	2,700	2	15
+Anch			5	10
+Anch			2	6
+Anch			4	10
+Anch	46	1,415		
+Anch	47	1,415		
+Anch	48	0,750	1	1,5
+Anch			1	2
+Anch	49	0,750	1	1
+Anch	50	0,350		
+Anch	51	0,350		
+Anch	52	1,415		
+Anch	53	1,415	4	10
+Anch	54	0,350		
+Anch	55	0,350		
+Anch	56	1,550		
+Anch	57	1,550		
+Anch	58	0,750	1	1
+Anch	59	0,750		
+Anch	60	1,100		
+Anch	61	1,100	1	7
+Anch	62	0,350		
+Anch	63	0,350		
+Anch	64	1,100		
+Anch	65	1,100		
+Anch	66	0,750		
+Anch	67	0,750	2	6
+Anch	68	1,415	1	1,5
+Anch	69	1,415	1	3
+Anch			1	8
+Anch	70	1,550	2	6
+Anch	71	1,550		
+Anch	72	1,415		
+Anch	73	1,415	5	0
+Anch	74	0,350		
+Anch	75	0,350		
+Anch	76	1,100	2	1
+Anch			1	1
+Anch	77	1,100	1	2
+Anch	78	1,550	3	3
+Anch	79	1,550		
+Anch	80	0,750		
+Anch	81	0,750		
+Anch	82	0,750		
+Anch	83	0,750	2	8
+Anch			1	8
+Anch	84	0,350	2	0
+Anch	85	0,350		
+Anch	86	1,550		
+Anch	87	1,550		
+Anch	88	1,100		
+Anch	89	1,100		
+Anch	90	1,415		
+Anch	91	1,415		
+Anch	92	0,350		
+Anch	93	0,350		
+Anch	94	2,700	4	10
+Anch			1	9
+Anch			1	0
+Anch	95	1,100	1	2
+Anch	96	1,100		
+Anch	97	0,750		
+Anch	98	0,750		
+Anch	99	1,550		
+Anch	100	1,550		
+Anch	101	0,350		
+Anch	102	0,350		
+Anch	103	1,100	1	6
+Anch			1	1
+Anch	104	1,100		
+Anch	105	1,415		
+Anch	106	1,415		
+Anch	107	0,750	1	0
+Anch			2	0
+Anch	108	0,750	1	0
+Anch			3	0
+Anch			1	1
+Anch	109	1,550		
+Anch	110	1,550	1	0
+Anch	111	1,100	1	10
+Anch	112	1,100		
+Anch	113	1,415	1	0
+Anch	114	1,415	1	0
+Anch	115	0,750	2	2,5
+Anch			1	1
+Anch	116	0,750		
+Anch	117	1,550	1	0
+Anch	118	1,550		
+Anch	119	0,350		
+Anch	120	0,350		
+Anch	121	0,750		
+Anch	122	0,750	2	1
+Anch			1	0
+Anch	123	0,350		
+Anch	124	0,350		
+Anch	125	1,550	1	8
+Anch	126	1,550		
+Anch	127	1,415	1	3
+Anch	128	1,415	2	3
+Anch			1	1
+Anch	129	1,100		
+Anch	130	1,100		

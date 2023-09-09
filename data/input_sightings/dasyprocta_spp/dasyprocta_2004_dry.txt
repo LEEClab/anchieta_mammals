@@ -1,0 +1,111 @@
+local	transectID	transect_lenght	perpendicular_distance
+Anch	142	1,415	4,8
+Anch	142		3,5
+Anch	142		2
+Anch	143	1,55	6
+Anch	145	1,1	
+Anch	146	1,55	0
+Anch	147	2,7	
+Anch	154	1,415	4
+Anch	155	1,1	
+Anch	156	1,1	
+Anch	157	1,415	0
+Anch	157		0
+Anch	158	1,55	5,5
+Anch	158		0
+Anch	158		0
+Anch	159	1,415	7
+Anch	159		0
+Anch	159		0
+Anch	159		0
+Anch	160	1,415	8,5
+Anch	160		8,5
+Anch	160		8,5
+Anch	160		6
+Anch	160		6
+Anch	160		1
+Anch	160		0
+Anch	161	2,7	7,5
+Anch	161		6
+Anch	161		5,5
+Anch	161		5
+Anch	161		5
+Anch	161		5
+Anch	161		5
+Anch	161		5
+Anch	161		4
+Anch	161		3,5
+Anch	161		3,5
+Anch	162	2,7	6
+Anch	162		5
+Anch	162		4,5
+Anch	163	1,415	9
+Anch	163		9
+Anch	163		8,5
+Anch	163		6,5
+Anch	163		2
+Anch	163		0
+Anch	163		0
+Anch	164	1,1	4
+Anch	165	1,1	
+Anch	166	1,55	9
+Anch	166		8
+Anch	166		6
+Anch	167	1,55	5,5
+Anch	167		3
+Anch	167		2
+Anch	168	1,415	10,5
+Anch	168		10,5
+Anch	168		7,5
+Anch	168		7,5
+Anch	168		7
+Anch	168		5
+Anch	168		5
+Anch	168		4
+Anch	168		2,5
+Anch	169	1,415	10
+Anch	169		3,5
+Anch	169		2,5
+Anch	169		2
+Anch	169		1
+Anch	170	1,1	
+Anch	170		0
+Anch	171	1,1	11,5
+Anch	171		4
+Anch	172	1,415	7,5
+Anch	172		7
+Anch	172		6,5
+Anch	172		5
+Anch	172		2
+Anch	172		1
+Anch	172		0
+Anch	172		0
+Anch	174	1,1	13
+Anch	174		13
+Anch	174		5,5
+Anch	174		3,5
+Anch	174		0
+Anch	175	1,1	0
+Anch	176	1,415	7
+Anch	176		7
+Anch	176		7
+Anch	176		5
+Anch	176		4,5
+Anch	176		1,5
+Anch	176		1
+Anch	177	1,415	7
+Anch	177		7
+Anch	177		6
+Anch	177		5
+Anch	177		0
+Anch	178	1,1	1
+Anch	178		0
+Anch	178		0
+Anch	181	1,415	0
+Anch	181		0
+Anch	182	1,1	6,5
+Anch	182		
+Anch	187	1,415	7,5
+Anch	187		3
+Anch	187		0
+Anch	188	1,415	0

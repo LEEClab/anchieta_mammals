@@ -1,0 +1,88 @@
+Region	Ordem	Extensão	Indivíduos	DP
+Anch	1	1,415	
+Anch	2	1,415		
+Anch	3	1,55	
+Anch	4	1,55		
+Anch	5	0,35		
+Anch	6	0,35		
+Anch	7	1,55			
+Anch	8	1,55		
+Anch	9	1,05		
+Anch	10	1,05		
+Anch	11	0,75	1	6	
+Anch	12	0,75	1	2,5	
+Anch	13	0,35		
+Anch	14	0,35		
+Anch	15	0,75		
+Anch	16	0,75		
+Anch	17	1,415	1	0		
+Anch	18	1,415		
+Anch	19	1,415		
+Anch	20	1,415		
+Anch	21	0,75	1	0		
+Anch	22	0,75	1	0	
+Anch	23	0,35		
+Anch	24	0,35		
+Anch	25	1,55	
+Anch	26	1,55	
+Anch	27	1,415		
+Anch	28	1,415		
+Anch	29	1,05		
+Anch	30	1,05		
+Anch	31	0,35		
+Anch	32	0,35		
+Anch	33	0,75	
+Anch	34	0,75	
+Anch	35	1,05		
+Anch	36	1,05		
+Anch	37	1,55		
+Anch	38	1,55	
+Anch	39	1,415		
+Anch	40	1,415	
+Anch	41	1,05		
+Anch	42	1,05		
+Anch	43	0,75		
+Anch	44	0,75		
+Anch	45	0,35		
+Anch	46	0,35		
+Anch	47	1,55	1	0		
+Anch	48	1,55		
+Anch	49	1,415		
+Anch	50	1,415		
+Anch	51	1,05		
+Anch	52	1,05		
+Anch	53	1,415		
+Anch	54	1,415		
+Anch	55	0,35		
+Anch	56	0,35		
+Anch	57	0,75		
+Anch	58	0,75	
+Anch	59	0,75	
+Anch	60	0,75		
+Anch	61	1,05		
+Anch	62	1,05		
+Anch	63	1,415	1	0		
+Anch	64	1,415		
+Anch	65	1,55	1	2		
+Anch	66	1,55	1	2	
+Anch	67	1,05		
+Anch	68	1,05		
+Anch	69	0,75		
+Anch	70	0,75	1	0
+Anch			1	0	
+Anch	71	0,35		
+Anch	72	0,35		
+Anch	73	1,05	1	10	
+Anch	74	1,05	1	7	
+Anch	75	0,75	1	3,5	
+Anch	76	0,75	
+Anch	77	1,55	
+Anch	78	1,55	1	0	
+Anch	79	0,35		
+Anch	80	0,35		
+Anch	81	0,35		
+Anch	82	0,35		
+Anch	83	1,05	
+Anch	84	1,05	
+Anch	85	1,415		
+Anch	86	1,415		

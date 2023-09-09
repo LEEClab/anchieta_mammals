@@ -1,0 +1,67 @@
+local	transectID	comprimento do transecto (km)	dist_perpendicular (m)
+Anch	43	2,7	4,6
+Anch			0
+Anch			12,5
+Anch	44	2,7	0
+Anch			0
+Anch	45	1,55	
+Anch	46	1,415	4
+Anch			4
+Anch			16
+Anch			15,7
+Anch			15,7
+Anch			0
+Anch	47	1,55	6
+Anch			2
+Anch			2
+Anch	48	1,55	10
+Anch			2,5
+Anch			0
+Anch	49	1,415	4
+Anch			4
+Anch			19,2
+Anch	50	2,7	10
+Anch			10
+Anch			3
+Anch	51	1,55	5
+Anch			5
+Anch			10
+Anch			5
+Anch	52	1,415	3
+Anch			3
+Anch			6
+Anch	53	2,7	4
+Anch	54	1,415	0
+Anch			3
+Anch			3
+Anch	55	2,7	7
+Anch			6
+Anch			0
+Anch			0
+Anch	56	2,7	1
+Anch			6
+Anch	57	1,1	5
+Anch			0
+Anch	58	1,415	0
+Anch			3,5
+Anch			4
+Anch	59	1,55	3
+Anch			3
+Anch			4
+Anch			0
+Anch	60	2,7	2
+Anch			2
+Anch	61	1,1	1
+Anch			3
+Anch	62	1,55	5
+Anch			5
+Anch			2
+Anch			5
+Anch	63	1,415	4
+Anch			0
+Anch	64	1,55	6
+Anch			0
+Anch			8
+Anch	65	1,415	0
+Anch			4
+Anch			4

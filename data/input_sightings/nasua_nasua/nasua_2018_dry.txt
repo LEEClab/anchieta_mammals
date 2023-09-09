@@ -1,0 +1,41 @@
+Region	Ordem	Extensão	Indivíduos	DP
+Anch	1	1,05		
+Anch	2	1,05		
+Anch	3	0,35		
+Anch	4	0,35		
+Anch	5	1,415		
+Anch	6	1,415		
+Anch	7	0,35		
+Anch	8	0,35		
+Anch	9	1,05		
+Anch	10	1,05		
+Anch	11	0,35		
+Anch	12	0,35		
+Anch	13	1,415		
+Anch	14	1,415		
+Anch	15	1,05		
+Anch	16	1,05		
+Anch	17	1,55	3	6
+			1	2
+Anch	18	1,55		
+Anch	19	1,415		
+Anch	20	1,415		
+Anch	21	0,35		
+Anch	22	0,35		
+Anch	23	0,35		
+Anch	24	0,35		
+Anch	25	1,05		
+Anch	26	1,05		
+Anch	27	0,35		
+Anch	28	0,35		
+Anch	29	1,05		
+Anch	30	1,05		
+Anch	31	1,415		
+Anch	32	1,415		
+Anch	33	0,35		
+Anch	34	0,35		
+Anch	35	1,415		
+Anch	36	1,415		
+Anch	37	2,7		
+				
+				
