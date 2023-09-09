@@ -1,14 +1,15 @@
 # Long-term population trends of introduced mammals on an tropical island
 We present the status and population dynamics of the introduced species after 19, 21, 35, 38, and 39 years based on 611 km of line transects in a tropical island in Brazil.
 
-![readme](https://github.com/LEEClab/anchieta_mammals/assets/65490803/9f3aaee0-be6b-42fb-abd0-a09e49071a91)
+![readme](![ilha_anchieta_satélite](https://github.com/LEEClab/anchieta_mammals/assets/65490803/4fed2238-f9c8-4915-b967-2b76712b0e22)
+)
 
 
 
 All analyses were performed in software Distance 7.5.
 
 # data
-Distance 7.5 software input and output data and raw survey tables of each year.
+Distance 7.5 software input data and raw survey tables of each year.
 
 # maps
 Location maps and trails.
