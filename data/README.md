@@ -1,0 +1,1 @@
+Although the raw table presents both daytime and nighttime censuses, for predominantly diurnal species (such as agoutis, marmosets) we only used daytime data in the analysis. In the case of the armadillo and the opossum, they were the only species in which we used nighttime censuses in the analysis.
