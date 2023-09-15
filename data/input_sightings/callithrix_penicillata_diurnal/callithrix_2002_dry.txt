@@ -1,0 +1,30 @@
+local	transectID	comprimento do transect	individuos	dist_perpendicular
+Anch	1	2,700	1	5
+Anch			4	3,5
+Anch	2	2,700	4	12
+Anch	3	1,550	3	11
+Anch	4	1,415	5	5
+Anch	5	1,550	10	11
+Anch	6	1,550	4	3,5
+Anch			5	5,5
+Anch	7	1,415		
+Anch	8	2,700	6	8
+Anch			5	12
+Anch	9	1,550	3	6
+Anch			2	6
+Anch	10	1,415		
+Anch	11	2,700	2	9
+Anch	12	1,415		
+Anch	13	2,700	3	5
+Anch	14	2,700		
+Anch	15	1,050		
+Anch	16	1,415		
+Anch	17	1,550	6	5
+Anch			5	10
+Anch	18	2,700	2	1
+Anch	19	1,050		
+Anch	20	1,550	3	8
+Anch	21	1,415	7	3,5
+Anch	22	1,550	4	1,5
+Anch	23	1,415		
+				
